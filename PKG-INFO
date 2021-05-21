@@ -1,0 +1,94 @@
+Metadata-Version: 1.0
+Name: fast csv validator
+Version: 0.1
+Summary: fast validator for csv 
+Home-page: 
+Author: 
+Author-email: 
+License: MIT
+Download-URL: 
+Description: ==============
+        csv validator
+        ==============
+        
+       
+        
+        
+        Description
+        ===========
+        
+        This snippet was written to validate the csv file 
+        
+        
+        Dependencies
+        ============
+        
+        - Python >= 3.0
+        
+        
+        Install
+        =======
+        
+        This demo can be installed with Python Setuptools by entering the following
+        command in a terminal::
+        
+            python3 setup.py install
+        
+        .. _install:
+        
+        Installation
+        ============
+        
+        Gnu/Linux
+        ---------
+        
+        You can install, upgrade, uninstall this demo with these commands
+        (in a terminal)::
+        
+            pip install --pre csv-validator
+            pip install --upgrade csv-validator
+            pip uninstall csv-validator
+        
+        Or, if you have downloaded the source code::
+        
+            python3 setup.py install
+        
+        Windows
+        -------
+        
+        You can install, upgrade, uninstall this demo with these commands
+        (in a `command prompt`_)::
+        
+            py -m pip install --pre  csv-validator
+            py -m pip install --upgrade  csv-validator
+            py -m pip uninstall  csv-validator
+        
+        Or, if you have downloaded the source code::
+        
+            py setup.py install
+        
+        
+        
+        Usage
+        =====
+        
+        Usage::
+        
+            csv-validator <csv_path>           
+        
+        
+        License
+        =======
+        
+        This demo is distributed under the `MIT License`_
+        
+        .. _MIT License: http://opensource.org/licenses/MIT
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
