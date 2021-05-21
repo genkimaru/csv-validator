@@ -1,0 +1,3 @@
+dist/*
+build/*
+fast_csv_validator.egg-info/*
